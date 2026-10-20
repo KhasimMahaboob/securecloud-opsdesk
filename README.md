@@ -33,7 +33,3 @@ The application integrates key AWS core services:
 4. **Cloud Performance Monitoring:** Live metrics tracking via Amazon CloudWatch to monitor web server health.
 EOF
 
-# 2. Stage, commit, and push the README
-git add README.md
-git commit -m "Add professional project README.md"
-git push origin main
