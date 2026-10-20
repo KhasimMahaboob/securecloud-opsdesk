@@ -1,4 +1,3 @@
-# 1. Create the README.md file locally
 cat << 'EOF' > README.md
 # 🛡️ SecureCloud OpsDesk — Cloud Incident Management Platform
 
